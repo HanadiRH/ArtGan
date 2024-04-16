@@ -1,4 +1,4 @@
-# Artwork Creation Using AI FYP
+# Artwork Creation Using AI
 ## How to run the project
 There are three parts involved in the project which are the Artwork Creation using AI.ipynb file, the Flask application and the test cases. And I will demonstrate how to run
 each part of the project.
