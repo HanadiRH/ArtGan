@@ -3,7 +3,7 @@ This repo is for my EMA final submission (student number H2857255).
 ## How to run the project
 There are three parts involved in the project which are the Artwork Creation using AI.ipynb file, the Flask application and the test cases. And I will demonstrate how to run
 each part of the project.
-##Sample image result
+## Sample image result
 ![alt text](https://github.com/HanadiRH/ArtGan/blob/main/static/saved_images/image_1679570883231900300.png)
 ### Jupyter Notebook(Artwork Creation using AI.ipynb)
 By simply running all the cells by presseing Kernel -> Restart & Run All. When reaching the fifth cell(Train a Gan model) it will start to generate art images as well outputting
